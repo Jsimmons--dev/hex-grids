@@ -1,0 +1,23 @@
+{
+  "name": "hex-grids",
+  "version": "0.1.0",
+  "description": "A library that implements several hexagonal grid systems primarily for use in javascript games",
+  "main": "hex.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jasmine spec/jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsimmons--dev/hex-grids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsimmons--dev/hex-grids/issues"
+  },
+  "homepage": "https://github.com/Jsimmons--dev/hex-grids#readme"
+}
